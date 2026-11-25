@@ -1,0 +1,1 @@
+window.updateHydraulicScene112=(scene,state)=>{scene.traverse(o=>{if(o.isMesh&&o.geometry?.parameters?.width===660&&o.geometry?.parameters?.height===44&&o.material?.colorWrite===false)o.position.y=458-(state.hydraulicOffset||0);});};
