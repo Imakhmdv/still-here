@@ -1,0 +1,1 @@
+window.iceCubeImage=new Image();window.iceImageReady99=new Promise((r,j)=>{iceCubeImage.onload=r;iceCubeImage.onerror=j;});iceCubeImage.src="./fc4c6221faade75dc8b6.png";
